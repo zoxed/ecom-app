@@ -18,4 +18,4 @@ Cette série décrit les éléments suivants :
 • Comment sécuriser le micro service en mode Bearer Only avec Keycloak Adapter
 • Développer l’application web Front end  basée sur Angular
 • Comment sécuriser l’application Angular
-Keywords : Keycloak, Spring, Spring Security, Angular, Thymeleaf
+Keywords : Keycloak, Spring, Spring Security, Angular, Thymeleaf.
