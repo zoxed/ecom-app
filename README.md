@@ -5,7 +5,7 @@ https://www.youtube.com/playlist?list=PLJr5RGIgLG4FWrBprmUaACujvnl3XSqip
 
 Cette série de vidéos montre comment sécuriser un ensemble d’applications distribuées qui se compose de :
 
-• Un Micro-Service qui permet de gérer des fournisseurs basé sur Spring Boot
+• Un Micro-Service qui permet de gérer des fournisseurs basé sur Spring Boot.
 
 • Une application Frontend Web basée sur Spring MVC Server Side avec Thymeleaf comme moteur de Templates. Cette application permet de gérer les produits stockés dans une base de données locale et les fournisseurs exposés à distance par le micro-service
 
